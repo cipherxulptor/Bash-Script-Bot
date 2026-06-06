@@ -13,7 +13,7 @@ This model is a fine-tuned version of CodeLlama-7B designed for generating accur
 
 The model is trained using QLoRA adapters on a curated dataset of NL-to-Bash pairs, real-world shell scripts, and troubleshooting examples. The goal is a compact, reliable assistant that can turn plain English into clean Bash code while maintaining correctness and structure.  
 
-- **Developed by:** Saee  
+- **Developed by:** Prerana  
 - **Model type:** Instruction-tuned LLM for Bash generation  
 - **Languages:** English  
 - **License:** Same as the base model (CodeLlama License)  
